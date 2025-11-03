@@ -672,6 +672,7 @@ local glyphIds = {
 {26580,45831,1}, --health (oko, additive)
 {26588,45833,1}, --stamina (deni, additive)
 {26582,45832,1}, --magicka (makko, additive)
+{26583,45835,1}, --magicka recovery (makkoma, additive)
 {45886,45848,-1}, --decrease spell harm (makderi, subtractive)
 }
 local itemLinkLevel={
